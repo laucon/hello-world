@@ -1,3 +1,2 @@
-# hello-world
-I'm just getting started.
-I want to create documentation.
+# API Samples
+This is an API I got from Swagger.
